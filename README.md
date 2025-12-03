@@ -2,6 +2,8 @@
 
 Decentralized prediction market platform built on Monad blockchain.
 
+CA: bswETT6jntxknb8uUDDCJkVVjXEKWU3GHvJtFPRpump
+
 ## Overview
 
 Monsol is a theoretical prediction market DEX that leverages Monad's high-performance EVM-compatible blockchain to provide lightning-fast, low-cost prediction markets. Users can create markets, place predictions, and earn rewards based on outcomes.
