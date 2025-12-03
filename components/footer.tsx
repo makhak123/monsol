@@ -11,7 +11,7 @@ export function Footer() {
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
                 <TrendingUp className="h-6 w-6 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold text-foreground">Premonad</span>
+              <span className="text-xl font-bold text-foreground">Monsol</span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed max-w-md">
               Decentralized prediction markets built on Monad blockchain. Create markets, make predictions, and earn
@@ -73,7 +73,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-border/40 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-muted-foreground">© 2025 Premonad. Built on Monad blockchain.</p>
+          <p className="text-sm text-muted-foreground">© 2025 Monsol. Built on Monad blockchain.</p>
           <div className="flex gap-6 text-sm text-muted-foreground">
             <Link href="/terms" className="hover:text-foreground transition-colors">
               Terms

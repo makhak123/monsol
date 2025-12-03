@@ -20,7 +20,7 @@ export function Header() {
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
               <TrendingUp className="h-6 w-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">Premonad</span>
+            <span className="text-xl font-bold text-foreground">Monsol</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-6">

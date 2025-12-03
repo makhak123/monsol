@@ -23,7 +23,7 @@ export function HowItWorks() {
     <section className="py-16 lg:py-24">
       <div className="container">
         <div className="mx-auto max-w-2xl text-center mb-12">
-          <h2 className="text-3xl font-bold text-foreground text-balance lg:text-4xl">How Premonad Works</h2>
+          <h2 className="text-3xl font-bold text-foreground text-balance lg:text-4xl">How Monsol Works</h2>
           <p className="mt-4 text-muted-foreground text-balance leading-relaxed">
             Simple, transparent, and decentralized prediction markets
           </p>
